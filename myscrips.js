@@ -8,4 +8,6 @@ const color = prompt('inserisci il tuo colore preferito');
 
 let correntext = username + '' + userlastname + '' + color + '21';
 
+console.log(correntext)
+
 text1.innerHTML = correntext;
